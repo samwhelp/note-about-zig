@@ -32,6 +32,18 @@ has_children: false
 
 
 
+## River
+
+| River |
+| ----- |
+| [River](https://isaacfreund.com/software/river/) |
+| Codeberg / [river](https://codeberg.org/river/river) |
+| Codeberg / [wiki](https://codeberg.org/river/wiki) |
+| GitHub / [river](https://github.com/riverwm/river) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
