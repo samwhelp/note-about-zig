@@ -20,6 +20,14 @@ has_children: false
 
 
 
+## Zig 語言中文社區
+
+| Zig 語言中文社區 |
+| --- |
+| [Zig 語言中文社區](https://ziglang.cc/) |
+| GitHub / [zig-course](https://github.com/zigcc/zig-course) |
+| [Zig 語言聖經](https://course.ziglang.cc/) |
+| GitHub / [zig-course](https://github.com/zigcc/zig-course) |
 
 
 
