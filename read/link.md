@@ -12,7 +12,7 @@ has_children: false
 
 ## Zig
 
-| PHP |
+| Zig |
 | --- |
 | [Zig](https://ziglang.org/) |
 | GitHub / [zig](https://github.com/ziglang/zig) |
